@@ -1,4 +1,4 @@
-# Estudante em busca de oportunidades
+# Estudante em **BUSCA de OPORTUNIDADES**
 
 Aluno da Etec Fernando Prestes, construindo habilidades de desenvolvimento.
 
