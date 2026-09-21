@@ -8,4 +8,5 @@ Tecnologias que uso:
 - React
 - Node
 - C#
-- php
+- PHP
+- Git/Github
